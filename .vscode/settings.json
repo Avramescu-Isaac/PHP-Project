@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    ".runtime": true
+  },
+  "files.watcherExclude": {
+    "**/.runtime/**": true,
+    "**/storage/**": true
+  }
+}
